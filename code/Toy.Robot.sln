@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toy.Robot", "Toy.Robot\Toy.Robot.csproj", "{7003E985-2172-49B0-9671-EB854FEA7860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toy.Robot.Tests", "Toy.Robot.Tests\Toy.Robot.Tests.csproj", "{C0575403-73FD-4245-8C7B-94AC864373C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7003E985-2172-49B0-9671-EB854FEA7860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7003E985-2172-49B0-9671-EB854FEA7860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7003E985-2172-49B0-9671-EB854FEA7860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7003E985-2172-49B0-9671-EB854FEA7860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0575403-73FD-4245-8C7B-94AC864373C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0575403-73FD-4245-8C7B-94AC864373C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0575403-73FD-4245-8C7B-94AC864373C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0575403-73FD-4245-8C7B-94AC864373C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B108AC-6F48-4B68-A579-91F709467DA3}
+	EndGlobalSection
+EndGlobal
