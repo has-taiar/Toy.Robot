@@ -1,4 +1,4 @@
-# Welcome to REA Toy Robot
+# Welcome to Toy Robot
 
 This toy was developed using C# and .Net Core 2.0. The code was written using TDD and BDD. There are more than 100 tests that validates the logic of this simulation and there are no known defects at the time of shipping.
 
