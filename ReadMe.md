@@ -2,6 +2,9 @@
 
 This toy was developed using C# and .Net Core 2.0. The code was written using TDD and BDD. There are more than 100 tests that validates the logic of this simulation and there are no known defects at the time of shipping.
 
+## The Problem
+You can read about the problem and all its details in the [Problem.md file](https://github.com/has-taiar/Toy.Robot/blob/master/PROBLEM.md)
+
 ## Supported Platforms
 The app was packaged as a self-hosted application, and should work cross-platform without any need to install any dependency. Out of the box, I have enabled support for the below-mentioned platforms. Other platforms can be supported as well by a small configuration change. The downside to having this app as a self-hosted is the size of the executables is quite large for such a simple application.
 
